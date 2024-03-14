@@ -21,11 +21,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_CML2rXaCcDHIxZsfOsoUWflJvW3U/SIefGqMZpA
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_dLwSGGXK2DMLg6Vxnk5lIYdB0b7C/WDzahvTXxz
       - name: Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_MU3PtAKwtFoo5kJjr5THyjpQDLFJ/UubvvaQsxR
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_oAXBCUzgVTD532lGScCyoZxj3sbw/3utP1kNj90
       - name: Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_UsAvBUVpSjrgmvjBIU4dFEW6HmJq/27dM98NJck
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_BJ3rSvLyqzyxuevggKPUq5Dm0Ykj/c6MP9YMz4W
       - name: Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_UsAvBUVpSjrgmvjBIU4dFEW6HmJq/qtUybn2wSh
       - name: Run a one-line script
